@@ -1,0 +1,56 @@
+body{
+    
+    background-color:#f3e8ee; 
+}
+
+#mainNavbar .navbar-brand {
+    font-family: "Kalam" ;
+    color: #084c61;
+    font-size:1.5rem;
+    font-weight: 600;
+}
+
+
+#mainNavbar .nav-Link {
+    color: #084c61;
+    font-size:1.2rem;
+    font-weight: 300;
+}
+
+#mainNavbar .nav-Link:hover {
+    color: #729B79;
+}
+
+#subHeading h5 {
+    color: #729B79;
+    font-size: 1.75rem;
+
+}
+
+@media (max-width:1200 px) {
+    #subHeading h5 {
+    font-size: 1.25rem;
+}
+}
+
+p {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.content {
+    margin-top: 50px;
+}
+
+.ustbosluk {
+    margin-top: 50px;
+}
+
+h4 {
+    margin-bottom: 30px;
+}
+
+
+/* JAVASCRIPT */
+.navbar.scrolled {
+    background-color: #b6d3bb;
+}
